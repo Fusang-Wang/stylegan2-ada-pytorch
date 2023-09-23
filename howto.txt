@@ -1,0 +1,1 @@
+python style_mixing.py --network ~/Desktop/data/saved_models/ada_stylegan/celeba_blackH_smile_no0/00000-celeba_blackH_smile_no0_train-auto1/network-snapshot-017200.pkl --rows 6,545 --cols 4,3491 --noise-mode "random" --outdir ~/Desktop/data/data/ada_staylegan_stylemixing/
